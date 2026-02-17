@@ -15,13 +15,14 @@ Each template is a standalone markdown file you can drop into your project as a 
 | Template | What it covers |
 |----------|---------------|
 | [Client Centralization](rules/client-centralization-rules-template.md) | Centralize SDK clients, enforce dependency injection, keep UI code backend-agnostic. Covers database clients, AI enrichment, shared types, constants, logging, testing, and security. |
+| [Spec & Sprint Standards](rules/spec-and-sprint-standards-template.md) | Force clear planning before building. Spec structure, sprint slice format, implementation protocol, behavioral test standards, and a verification walkthrough. |
 
 ## How to Use
 
 **Option 1: Copy-paste**
 1. Open any template above
 2. Click the "Raw" button or copy the markdown
-3. Paste into your project as `.cursor/rules/client-centralization.md` or `RULES.md`
+3. Paste into your project as `.cursor/rules/` or `RULES.md`
 
 **Option 2: Download**
 1. Click the template link above
