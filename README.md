@@ -1,6 +1,6 @@
 # Context Engineering Rules
 
-Practical architecture rules and guardrails for AI-assisted coding. Copy-paste templates for Cursor, Windsurf, and vibe-coding workflows.
+Practical architecture rules and guardrails for AI-assisted coding. Copy-paste templates for Cursor, Windsurf, and AI coding workflows.
 
 ---
 
@@ -34,7 +34,7 @@ Each template is a standalone markdown file you can drop into your project as a 
 ## Who is this for?
 
 - Solo builders and indie hackers using AI coding tools
-- Small teams doing "vibe-coding" who want guardrails without overhead
+- Small teams who want guardrails without overhead
 - Anyone who wants AI-generated code to follow consistent architecture patterns
 
 ## Coming Soon
@@ -46,7 +46,3 @@ Each template is a standalone markdown file you can drop into your project as a 
 ## Contributing
 
 Have a rule template that works well for your team? PRs are welcome. Each template should be a standalone markdown file in the `rules/` or `tips/` directory.
-
-## License
-
-MIT - use these however you want.
